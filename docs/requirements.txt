@@ -1,3 +1,4 @@
 # https://github.yuuza.net/sphinx-doc/sphinx/issues/9727
 sphinx>=4.2.0
 sphinx_rtd_theme>=1.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
